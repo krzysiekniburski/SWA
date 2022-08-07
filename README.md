@@ -1,0 +1,2 @@
+# SWA
+System wykrywania anomalii
