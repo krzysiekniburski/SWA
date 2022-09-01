@@ -22,5 +22,6 @@ To run this project, create virtual environment and install libraries:
 ```
 $ python3 -m venv /path/to/new/virtual/environment
 $ source /path/to/new/virtual/environment/bin/activate
+$ apt install python3-pip
 $ pip install -r requirements.txt
 ```
