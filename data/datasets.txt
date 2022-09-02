@@ -2,3 +2,6 @@ Links to datasets
 
 Pneumonia detetction task:
 https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
+
+Anomaly sound detection dataset (MIMII):
+https://zenodo.org/record/3384388#.YxEaTnZBxPZ
